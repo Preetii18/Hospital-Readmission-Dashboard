@@ -22,6 +22,9 @@ This project visualizes and analyzes diabetic patient hospital readmission data 
 
 ## 🔗 Live Dashboard
 > [👉 View on Tableau Public](https://public.tableau.com/views/DiabetesReadmissionAnalysis_17521887175300/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+>
+> <img width="1551" height="886" alt="image" src="https://github.com/user-attachments/assets/a0e905a1-4a44-45af-a122-3b7c0aed7229" />
+
 
 ## 🗂️ File Structure
 - `dashboard.twbx` — Tableau Packaged Workbook
